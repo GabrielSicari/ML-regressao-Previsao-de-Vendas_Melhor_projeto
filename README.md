@@ -62,3 +62,21 @@ rápida porem mantendo uma boa qualidade, posteriormente poderemos voltar para o
 - **Resultados financeiros:** Tradução do resultado do modelo para um resultado financeiro, tornando fácil o entendimento dos resultados.
 
 - **Deploy para produção:** Criação de um Bot do Telegram que seja capaz de me dar o resultado da predição a partir do numero da loja escolhida. 
+
+
+## 4.0. Os 5 principais insights do negócio
+
+- ### **H1:** Lojas com sortimentos menores vendem mais 
+<h1 align="center"><img alt="rossmann" title="#logo" src="./img/h1.png" /></h1>
+
+- ### **H2:** Lojas com competidores próximos vendem mais
+<h1 align="center"><img alt="rossmann" title="#logo" src="./img/h2.png" /></h1>
+
+- ### **H3:** Lojas com promoções muito longas tem queda nas vendas ao longo do tempo
+<h1 align="center"><img alt="rossmann" title="#logo" src="./img/h3.png" /></h1>
+
+- ### **H4:** As lojas vendem mais depois do dia 10 de cada mês
+<h1 align="center"><img alt="rossmann" title="#logo" src="./img/h4.png" /></h1>
+
+- ### **H5:** As lojas vendem mais no primeiro semestre do ano
+<h1 align="center"><img alt="rossmann" title="#logo" src="./img/h5.png" /></h1>
