@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img alt="rossmann" title="#logo" src="./img/rossmann_logo.png" />
-</h1>
+<img alt="rossmann" title="#logo" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Fpt%2Flogo%2Flogo-rossmann-signet&psig=AOvVaw2C4NLUjb8rWNzhnG_9iPMA&ust=1675363325200000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjC__D89PwCFQAAAAAdAAAAABAJ" />
 
 
 
