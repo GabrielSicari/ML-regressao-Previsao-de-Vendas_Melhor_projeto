@@ -19,6 +19,8 @@ Como Cientistas de Dados da Rossmann, fomos acionados para trabalhar em uma solu
 
 - Os valores vazios da coluna "competition_distance" foram substituídos por 3 vezes o valor maximo do competidor mais distante. Estamos assumindo que se não temos essa informação, não temos competidores mais próximos e então estamos extrapolando no valor dos dados faltantes.
 
+- Linhas dizendo que as lojas estão fechada foram retiradas.
+
 
 ## 3.0. Planejamento da Solução
 
