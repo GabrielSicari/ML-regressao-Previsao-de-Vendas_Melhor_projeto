@@ -4,13 +4,13 @@
 
 ## 1.0. Introdução ao problema de negócio
 
-A Rossmann é uma rede de drogarias com de 4.244 lojas ativas em 7 países europeus, com 2.233 na Alemanha. O CFO da empresa planeja fazer uma reforma em cada loja, e em reunião com todos os gerentes indivíduais solicitou uma previsão diaria das próximas 6 semanas de vendas de cada loja, pois com base nessas informações seria definido o total destinado a cada uma.
+A Rossmann é uma rede de drogarias com de 4.244 lojas ativas em 7 países europeus, com 2.233 na Alemanha. O CFO da empresa planeja fazer uma reforma em cada loja, e em reunião com todos os gerentes indivíduais solicitou uma previsão das próximas 6 semanas de vendas de cada loja, pois com base nessas informações seria definido o total destinado a cada uma.
 
 Como Cientistas de Dados da Rossmann, fomos acionados para trabalhar em uma solução.
 
 ### 1.1. Questões do negócio
 
-- Fazer uma predição das vendas diarias de cada loja pelas próximas 6 semanas
+- Fazer uma predição das vendas de cada loja pelas próximas 6 semanas
 
 
 ## 2.0. Premissas do negócio
@@ -107,11 +107,11 @@ escolhido para ter seus parametros tunados na etapa seguinte.
 
 | MODEL NAME              | MAE         | MAPE     | RMSE        |
 |-------------------------|-------------|----------|-------------|
-| Random Forest Regressor | 679.100778  | 0.099894 | 1010.139337 |
-| XGBoost Regressor       | 867.333164  | 0.126841 | 1270.995299 |
+| Random Forest Regressor | 673.891784  | 0.099192 | 1003.873578 |
+| XGBoost Regressor       | 660.277741  | 0.095625 | 969.670432  |
 | Average Model           | 1354.800353 | 0.206400 | 1835.135542 |
-| Linear Regression       | 1867.089774 | 0.292694 | 2671.049215 |
-| Lasso                   | 1891.704881 | 0.289106 | 2744.451740 |
+| Linear Regression       | 1858.712447 | 0.285170 | 2684.283301 |
+| Lasso                   | 1864.159587 | 0.287184 | 2686.040626 |
 
 
 
@@ -119,28 +119,28 @@ escolhido para ter seus parametros tunados na etapa seguinte.
 
 | MODEL NAME              | MAE               | MAPE          | RMSE               |
 |-------------------------|-------------------|---------------|--------------------|
-| Random Forest Regressor | 829.42 +/- 105.66 | 0.12 +/- 0.02 | 1263.03 +/- 191.46 |
-| XGBoost Regressor       | 1080.33 +/- 77.22 | 0.15 +/- 0.01 | 1577.18 +/- 117.34 |
-| Linear Regression       | 1992.27 +/- 41.68 | 0.29 +/- 0.01 | 2846.37 +/- 87.77  |
-| Lasso                   | 2035.84 +/- 54.02 | 0.29 +/- 0.0  | 2964.68 +/- 89.66  |
+| Random Forest Regressor | 832.88 +/- 217.69 | 0.12 +/- 0.02 | 1250.45 +/- 317.81 |
+| XGBoost Regressor       | 837.67 +/- 146.0  | 0.12 +/- 0.01 | 1210.7 +/- 209.0   |
+| Linear Regression       | 2037.26 +/- 268.6 | 0.3 +/- 0.01  | 2908.23 +/- 399.53 |
+| Lasso                   | 2085.52 +/- 327.3 | 0.29 +/- 0.01 | 2982.39 +/- 500.42 |
 
 ### 5.3. Seleção do modelo
 
-O modelo selecionado foi o XGBoost, apesar de estar atrás do Random Forest em questão de performance, esse
-modelo possui outras caracteristicas a qual o fez ser o escolhido, os principais pontos são:
+O modelo foi o mais performatico, sendo assim, vamos escolhe-lo para seguir o nosso projeto,
+pelos seguintes motivos:
 
 - O treinamento do XGBoost é mais rápido
-- Mais leve em comparação ao Random Forest (Infraestrutura)
-- A diferença de performance não foi grande, então podemos abrir mão dessa pequena diferença
+- Um modelo leve
+- Melhor performace
 
 ### 5.4. Resultado após ajuste nos hyperparametros do modelo
 
 Aplicado o metodo de **Random Search** para encontrar os melhores hyperparametros para serem usados no treinamento
-do XGBoost, o resultado foi o seguinte:
+do XGBoost, o resultado foi esse:
 
 | MODEL NAME        | MAE               | MAPE          | RMSE               |
 |-------------------|-------------------|---------------|--------------------|
-| XGBoost Regressor | 767.819972 | 0.11494	 | 1104.724995 |
+| XGBoost Regressor |     637.56213     |     0.09288	  |      931.67939     |
 
 <h1 align="center"><img alt="rossmann" title="#logo" src="./img/model_performance.png" /></h1>
 
