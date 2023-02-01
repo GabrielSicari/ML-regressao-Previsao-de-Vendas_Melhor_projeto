@@ -17,4 +17,4 @@ Os valores vazios da coluna "competition_distance" foram substituídos por 3 vez
 ## 3.1. Entrega Final
 A entrega será de um Bot no Telegram, que opere 24/7 e seja capaz de devolver a soma total da predição das próximas 6 semanas de vendas da loja requisitada.
 
-![bot_imagem.png](image/bot_imagem.png)
+<h1 align="center"><img alt="bot_imagem.png" title="#logo" src="image/bot_imagem.png" /></h1>
