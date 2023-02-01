@@ -4,7 +4,7 @@
 
 ## 1.0. Introdução ao problema de negócio
 
-A Rossmann é uma rede de drogarias com mais de 3.000 lojas ativas em 7 países europeus. O CFO da empresa planeja fazer uma reforma em cada loja, e em reunião com todos os gerentes indivíduais solicitou uma previsão diaria das próximas 6 semanas de vendas de cada loja, pois com base nessas informações seria definido o total destinado a cada uma.
+A Rossmann é uma rede de drogarias com de 4.244 lojas ativas em 7 países europeus, com 2.233 na Alemanha. O CFO da empresa planeja fazer uma reforma em cada loja, e em reunião com todos os gerentes indivíduais solicitou uma previsão diaria das próximas 6 semanas de vendas de cada loja, pois com base nessas informações seria definido o total destinado a cada uma.
 
 Como Cientistas de Dados da Rossmann, fomos acionados para trabalhar em uma solução.
 
