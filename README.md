@@ -142,32 +142,19 @@ do XGBoost, o resultado foi esse:
 |-------------------|-------------------|---------------|--------------------|
 | XGBoost Regressor |     637.56213     |     0.09288	  |      931.67939     |
 
-<h1 align="center"><img alt="rossmann" title="#logo" src="./img/model_performance.png" /></h1>
 
 ## 6.0. Bussiness Results
 
 A partir do resultado das predições do modelo, conseguimos montar uma tabela onde é possível ver os resultados
 financeiros para o negócio. Nessa tabela, podemos enxergar qual foi a predição das vendas do modelo para determinada
 loja e também quais são o pior e o melhor cenário dentro das previsões feitas.
-
-
-| LOJAS	 | PREDIÇÕES      | 	PIOR CENARIO  | MELHOR CENARIO  | MAE | MAPE |
-|--------|----------------|----------------|-----------------|-----|------|
-| 	1	    | 164276.046875  | 	163961.277575 | 164590.816175	  |314.769300|	0.072475|
-| 	2	    | 177526.093750  | 	177181.052160 | 	177871.135340	 |345.041590|	0.071908|
-| 	3	    | 261450.015625  | 	260877.777766 | 	262022.253484	 |572.237859|	0.081624|
-| ...	   | ...	           | ...	           | ...	            |...	|...	|
-| 1111	  | 178148.796875	 | 177538.571725	 | 178759.022025   |	610.225150	|0.131337
-| 1112	  | 344778.156250	 | 343658.650483	 | 345897.662017   |	1119.505767	|0.132453
-| 1113	  | 241641.015625	 | 241126.693214	 | 242155.338036   |	514.322411	|0.079661
-
 De acordo com o resultado do modelo, a soma total de vendas de todas as farmácias ao longo de 6 semanas é:
 
 | CENARIO         | 	VALORES         |
 |-----------------|------------------|
-| predições	      | R$287,963,072.00 |
-| pior cenario	   | R$287,215,317.18 |
-| melhor cenario	 | R$288,710,821.19 |
+| predições	      | R$283,314,877.05 |
+| pior cenario	   | R$282,618,661.69 |
+| melhor cenario	 | R$284,011,092.40 |
 
 ## 7.0 Conclusão
 
@@ -175,11 +162,11 @@ Conseguimos atender o pedido feito pelo CFO, entregando como resultado um bot do
 por qualquer dispositivo conectado a rede. A principal funcionalidade do bot é de que ao passar o numero de uma
 loja para ele, será devolvido como resposta a predição de quanto aquela loja irá faturar nas próximas seis semanas.
 
-### Acesse o RossmanBot: [![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rossmann_pred_sales_bot)
+### Acesse o RossmanBot: [![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rossmann_prediction_bot)
  
 #### Principal funcionalidade:
 
-- /start : inicializa o bot
-- /numero_loja: bot devolve a predição das proximas seis semanas de vendas para aquela loja. (ex: /22)
+- Qualquer mensagem : Inicializa o bot
+- Número da loja desejada: O bot devolve a predição das proximas seis semanas de vendas para aquela loja.
 
-### Meu LinkedIn: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-machado1/)
+### Meu LinkedIn: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielsicari/)
