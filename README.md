@@ -70,13 +70,13 @@ rápida porem mantendo uma boa qualidade, posteriormente poderemos voltar para o
 <h1 align="center"><img alt="rossmann" title="#logo" src="image/sortimento.png" /></h1>
 
 - ### **H2:** Lojas com competidores mais próximos vendem um pouco a mais
-<h1 align="center"><img alt="rossmann" title="#logo" src="image/" /></h1>
+<h1 align="center"><img alt="rossmann" title="#logo" src="image/competidores.png" /></h1>
 
 - ### **H3:** Lojas com competidores por mais tempo vendem mais
-<h1 align="center"><img alt="rossmann" title="#logo" src="image/" /></h1>
+<h1 align="center"><img alt="rossmann" title="#logo" src="image/temp_competidores.png" /></h1>
 
 - ### **H4:** Lojas vendem mais durante os anos
 <h1 align="center"><img alt="rossmann" title="#logo" src="image/anos.png" /></h1>
 
 - ### **H5:** Lojas vendem mais no segundo semestre do ano, principalmente em dezembro
-<h1 align="center"><img alt="rossmann" title="#logo" src="image/" /></h1>
+<h1 align="center"><img alt="rossmann" title="#logo" src="image/semestre.png" /></h1>
