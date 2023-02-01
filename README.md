@@ -28,16 +28,16 @@ Como Cientistas de Dados da Rossmann, fomos acionados para trabalhar em uma solu
 
 <h1 align="center"><img alt="rossmann" title="#logo" src="image/bot_imagem.png" /></h1>
 
-### 3.2. Ferramentas
+### 3.2. Algumas das ferramentas ultilizadas
 
-- [Python 3.8.15](https://www.python.org/downloads/release/python-3815/)
-- [Jupyter Notebook](https://jupyter.org/)
-- [Scikit Learn](https://scikit-learn.org/0.21/documentation.html) and [XGBoost](https://xgboost.readthedocs.io/en/stable/)
+- [Python 3.9.15]
+- [Jupyter Notebook]
+- [Scikit Learn]
 - Boruta
-- [Git](https://git-scm.com/) and [Github](https://github.com/)
-- [Render](https://render.com/)
-- [Telegram Bot](https://core.telegram.org/bots/api)
-- [Flask](https://flask.palletsprojects.com/en/2.2.x/)
+- [Git] and [Github]
+- [Render]
+- [Telegram Bot]
+- [Flask]
 
 ### 3.3. Processo até a solução
 
