@@ -34,7 +34,7 @@ Como Cientistas de Dados da Rossmann, fomos acionados para trabalhar em uma solu
 - [Jupyter Notebook]
 - [Scikit Learn]
 - Boruta
-- [Git] and [Github]
+- [Git] e [Github]
 - [Render]
 - [Telegram Bot]
 - [Flask]
@@ -75,20 +75,20 @@ rápida porem mantendo uma boa qualidade, posteriormente poderemos voltar para o
 
 ## 4.0. Os 5 principais insights do negócio
 
-- ### **H1:** Lojas com sortimentos menores vendem mais 
-<h1 align="center"><img alt="rossmann" title="#logo" src="./img/h1.png" /></h1>
+- ### **H1:** Lojas com sortimentos maiores vendem mais 
+<h1 align="center"><img alt="rossmann" title="#logo" src="image/sortimento.png" /></h1>
 
 - ### **H2:** Lojas com competidores próximos vendem mais
-<h1 align="center"><img alt="rossmann" title="#logo" src="./img/h2.png" /></h1>
+<h1 align="center"><img alt="rossmann" title="#logo" src="image/competidores.png" /></h1>
 
 - ### **H3:** Lojas com promoções muito longas tem queda nas vendas ao longo do tempo
-<h1 align="center"><img alt="rossmann" title="#logo" src="./img/h3.png" /></h1>
+<h1 align="center"><img alt="rossmann" title="#logo" src="image/temp_competidores.png" /></h1>
 
 - ### **H4:** As lojas vendem mais depois do dia 10 de cada mês
-<h1 align="center"><img alt="rossmann" title="#logo" src="./img/h4.png" /></h1>
+<h1 align="center"><img alt="rossmann" title="#logo" src="image/anos.png" /></h1>
 
 - ### **H5:** As lojas vendem mais no primeiro semestre do ano
-<h1 align="center"><img alt="rossmann" title="#logo" src="./img/h5.png" /></h1>
+<h1 align="center"><img alt="rossmann" title="#logo" src="image/semestre.png" /></h1>
 
 
 ## 5.0. Modelo de Machine Learning
