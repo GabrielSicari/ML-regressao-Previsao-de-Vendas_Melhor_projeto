@@ -19,7 +19,7 @@ A entrega será de um Bot no Telegram, que opere 24/7 e seja capaz de devolver a
 
 <h1 align="center"><img alt="bot_imagem.png" title="#logo" src="image/bot_imagem.png" /></h1>
 
-### 3.2. Ferramentas
+## 3.2. Algumas ferramentas ultilizadas
 
 - [Python 3.8.15](https://www.python.org/downloads/release/python-3815/)
 - [Jupyter Notebook](https://jupyter.org/)
