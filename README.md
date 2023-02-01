@@ -66,17 +66,17 @@ rápida porem mantendo uma boa qualidade, posteriormente poderemos voltar para o
 
 ## 4.0. Os 5 principais insights do negócio
 
-- ### **H1:** Lojas com sortimentos menores vendem mais 
-<h1 align="center"><img alt="rossmann" title="#logo" src="./img/h1.png" /></h1>
+- ### **H1:** Lojas com maior sortimento, na média, vendem mais
+<h1 align="center"><img alt="rossmann" title="#logo" src="image/sortimento.png" /></h1>
 
-- ### **H2:** Lojas com competidores próximos vendem mais
-<h1 align="center"><img alt="rossmann" title="#logo" src="./img/h2.png" /></h1>
+- ### **H2:** Lojas com competidores mais próximos vendem um pouco a mais
+<h1 align="center"><img alt="rossmann" title="#logo" src="image/" /></h1>
 
-- ### **H3:** Lojas com promoções muito longas tem queda nas vendas ao longo do tempo
-<h1 align="center"><img alt="rossmann" title="#logo" src="./img/h3.png" /></h1>
+- ### **H3:** Lojas com competidores por mais tempo vendem mais
+<h1 align="center"><img alt="rossmann" title="#logo" src="image/" /></h1>
 
-- ### **H4:** As lojas vendem mais depois do dia 10 de cada mês
-<h1 align="center"><img alt="rossmann" title="#logo" src="./img/h4.png" /></h1>
+- ### **H4:** Lojas vendem mais durante os anos
+<h1 align="center"><img alt="rossmann" title="#logo" src="image/anos.png" /></h1>
 
-- ### **H5:** As lojas vendem mais no primeiro semestre do ano
-<h1 align="center"><img alt="rossmann" title="#logo" src="./img/h5.png" /></h1>
+- ### **H5:** Lojas vendem mais no segundo semestre do ano, principalmente em dezembro
+<h1 align="center"><img alt="rossmann" title="#logo" src="image/" /></h1>
