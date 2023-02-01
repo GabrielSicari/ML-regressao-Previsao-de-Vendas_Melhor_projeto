@@ -26,7 +26,7 @@ Como Cientistas de Dados da Rossmann, fomos acionados para trabalhar em uma solu
 
 - A entrega será de um Bot no Telegram, que opere 24/7 e seja capaz de devolver a soma total da predição das próximas 6 semanas de vendas da loja requisitada
 
-<h1 align="center"><img alt="rossmann" title="#logo" src="./img/bot_example.png" /></h1>
+<h1 align="center"><img alt="rossmann" title="#logo" src="image/bot_imagem.png" /></h1>
 
 ### 3.2. Ferramentas
 
